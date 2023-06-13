@@ -32,6 +32,6 @@ Aqui estão alguns recursos adicionais úteis para ajudar no desenvolvimento da 
 - [Documentação do Angular](https://angular.io/docs) - A documentação oficial do Angular.
 - [Guia do Angular Material](https://material.angular.io/guide) - Um guia detalhado para o uso do Angular Material.
 - [Documentação da REST API](https://exampleapi.com/docs) - Documentação da API utilizada para obter dados dos cursos.
-- 
+  
 
 
