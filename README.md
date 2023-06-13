@@ -1,27 +1,37 @@
-# AngularCrud
+# 🎓 Aplicação de Cursos
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+Esta é uma aplicação de cursos desenvolvida em Angular. Ela permite listar cursos, exibir detalhes de cada curso e fornecer recursos adicionais relacionados ao aprendizado.
 
-## Development server
+## ✨ Funcionalidades
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- ✔️ Listagem de cursos com informações básicas
+- 🔍 Detalhes de cada curso, incluindo descrição, instrutor e duração
+- 📚 Recursos adicionais, como materiais de estudo e materiais complementares
+- 🌐 Integração com um servidor REST para obter dados dos cursos
+- 👥 Recursos de interação, como marcação de favoritos e compartilhamento de cursos
 
-## Code scaffolding
+## 🚀 Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- 💻 Angular: Uma plataforma de desenvolvimento para criação de aplicações web.
+- 📦 Angular Material: Uma biblioteca de componentes de interface do usuário para Angular.
+- 🌐 REST API: Uma API para obter dados dos cursos.
 
-## Build
+## 🛠️ Configuração do Ambiente
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Para configurar o ambiente de desenvolvimento, siga as instruções abaixo:
 
-## Running unit tests
+1. Clone este repositório.
+2. Execute `npm install` para instalar as dependências.
+3. Execute `ng serve` para iniciar o servidor de desenvolvimento.
+4. Acesse `http://localhost:4200` no seu navegador.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 📚 Recursos Adicionais
 
-## Running end-to-end tests
+Aqui estão alguns recursos adicionais úteis para ajudar no desenvolvimento da aplicação:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- [Documentação do Angular](https://angular.io/docs) - A documentação oficial do Angular.
+- [Guia do Angular Material](https://material.angular.io/guide) - Um guia detalhado para o uso do Angular Material.
+- [Documentação da REST API](https://exampleapi.com/docs) - Documentação da API utilizada para obter dados dos cursos.
+- 
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
